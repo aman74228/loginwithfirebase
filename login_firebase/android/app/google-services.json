@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157395977524",
+    "project_id": "login-firebase-getx-9c387",
+    "storage_bucket": "login-firebase-getx-9c387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157395977524:android:b2e434e19598ae2190d161",
+        "android_client_info": {
+          "package_name": "com.getx.app.db.login_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157395977524-lkn593r5cbukabdm2uvnvmm48q86i1vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY94tA5qhq3U00wVUgyO27joNmy-PW0Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157395977524-lkn593r5cbukabdm2uvnvmm48q86i1vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
